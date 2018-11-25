@@ -4,4 +4,4 @@ The game's GUI is python interpreter console.
 
 Screenshot:
 .
-![alt text](https://i.ibb.co/ccfL4N1/Mine-Sweeper.png)
+![Screenshot](screenshots/1.png)
