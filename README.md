@@ -4,4 +4,4 @@ The game's GUI is python interpreter console.
 
 Screenshot:
 .
-![Screenshot](screenshots/1.png)
+![Screenshot](screenshots/1.PNG)
